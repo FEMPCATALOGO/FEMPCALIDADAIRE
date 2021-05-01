@@ -21,7 +21,7 @@ defaults:
       
 author:
   name   : "Calidad del aire"
-  avatar : "img/calidad.png"
+  avatar : "img/calidadaire.png"
   bio    : "Vocabulario para la representación de datos sobre la calidad del aire."
   links:
     - label: "Página web"

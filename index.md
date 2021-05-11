@@ -16,13 +16,14 @@ classes: wide
 	<li class="current"><a href="https://fempcatalogo.github.io/FEMPTFG/" data-hover="Catálogo">Catálogo</a></li>
 	<li class="left"><a href="http://vocab.linkeddata.es/datosabiertos/" data-hover="Open Data Cities">Open Data Cities</a></li>
 	<li class="left"><a href="https://github.com/opencitydata/" data-hover="Open City GitHub">Open City GitHub</a></li>
-	  <li class="left"><a href="https://github.com/opencitydata/medio-ambiente-calidad-aire/blob/master/README.md" data-hover="README">README</a>
+	<li class="left"><a href="https://github.com/opencitydata/medio-ambiente-calidad-aire/blob/master/README.md" data-hover="README">README</a>
 </ul>
 	</nav>
 	<br><br>  
+	
 </head>
+
 <div id="bodyid">
-<link href="stylesheet.css" rel="stylesheet"/>
 
 <h1> VOCABULARIO CALIDAD DEL AIRE </h1>
 </div>

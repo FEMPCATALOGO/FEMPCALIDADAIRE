@@ -19,10 +19,8 @@ classes: wide
   <li class="left"><a href="https://github.com/opencitydata/medio-ambiente-calidad-aire/blob/master/README.md" data-hover="README">README</a>
 </ul>
 	</nav>
-	<br><br>
-  
+	<br><br>  
 </head>
-
 <div id="bodyid">
 <link href="stylesheet.css" rel="stylesheet"/>
 
